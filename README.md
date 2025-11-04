@@ -69,7 +69,7 @@ PINECONE_API_KEY="your-pinecone-api-key"
 ELEVENLABS_API_KEY="your-elevenlabs-api-key"
 GOOGLE_DRIVE_FOLDER_ID="1q2z0VGGVsDNMzpqpayXozFtKS2m8iiew"
 
-## Workflow Visual & Breakdown
+Workflow Visual & Breakdown
 
 ### Diagram
 
