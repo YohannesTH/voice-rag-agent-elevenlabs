@@ -69,3 +69,24 @@ PINECONE_API_KEY="your-pinecone-api-key"
 ELEVENLABS_API_KEY="your-elevenlabs-api-key"
 GOOGLE_DRIVE_FOLDER_ID="1q2z0VGGVsDNMzpqpayXozFtKS2m8iiew"
 
+## Workflow Visual & Breakdown
+
+### Diagram
+
+### Data Flow
+
+Input → Process → Output
+
+1. Input
+- The Schedule Trigger initiates periodic runs.
+- Google Drive Node searches for files within the specified folder and downloads them.
+
+2. Process
+- Files are converted into embeddings using Google Gemini Embedding Node.
+- Embeddings are inserted into Pinecone Vector Store (solarpanelsdocs namespace).
+- On a separate execution path, a Webhook receives user questions.
+- The AI Agent retrieves relevant context via Pinecone and uses Gemini Chat Model to craft a response.
+
+3. Output
+- The response is sent to ElevenLabs, which converts it into an audio file and delivers it as the final response.
+
