@@ -74,7 +74,7 @@ Workflow Visual & Breakdown
 
 ### Diagram
 
-![Workflow Diagram](./images/ElevenLabs Voice RAG Customer Support Agent.jpg)
+(./images/ElevenLabs Voice RAG Customer Support Agent.jpg)
 
 ### Data Flow
 
