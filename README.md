@@ -31,6 +31,8 @@ It integrates **Google Drive**, **Google Gemini**, **Pinecone**, and **ElevenLab
 
 ---
 
+(./images/ElevenLabs Voice RAG Customer Support Agent.jpg)
+
 ## Setup & Installation
 
 ### 1. Download or copy the workflow JSON
