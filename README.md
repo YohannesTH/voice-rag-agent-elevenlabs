@@ -73,7 +73,7 @@ GOOGLE_DRIVE_FOLDER_ID="1q2z0VGGVsDNMzpqpayXozFtKS2m8iiew"
 Workflow Visual & Breakdown
 
 ## 🖼️ Workflow Diagram
-![Workflow Diagram](./images/ElevenLabs Voice RAG Customer Support Agent.jpg)
+![Workflow Diagram](./images/elevenlabs-voice-rag-customer-support-agent.jpg)
 
 ### Data Flow
 
