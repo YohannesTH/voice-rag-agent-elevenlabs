@@ -47,8 +47,6 @@ Download the file [`ElevenLabs Solar Panels RAG.json`](./ElevenLabs Solar Panels
 
 ### 3. Activate the workflow
 
-/images/ElevenLabs Voice RAG Customer Support Agent.jpg
-
 1. Open the workflow in n8n.  
 2. Toggle **Active** to enable automatic runs.  
 3. The **Schedule Trigger** will handle regular updates automatically.
@@ -75,6 +73,8 @@ GOOGLE_DRIVE_FOLDER_ID="1q2z0VGGVsDNMzpqpayXozFtKS2m8iiew"
 Workflow Visual & Breakdown
 
 ### Diagram
+
+![Workflow Diagram](./images/ElevenLabs Voice RAG Customer Support Agent.jpg)
 
 ### Data Flow
 
