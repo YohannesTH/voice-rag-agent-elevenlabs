@@ -46,6 +46,9 @@ Download the file [`ElevenLabs Solar Panels RAG.json`](./ElevenLabs Solar Panels
 > Make sure all API credentials (Google, Pinecone, ElevenLabs) are correctly configured before activating.
 
 ### 3. Activate the workflow
+
+/images/ElevenLabs Voice RAG Customer Support Agent.jpg
+
 1. Open the workflow in n8n.  
 2. Toggle **Active** to enable automatic runs.  
 3. The **Schedule Trigger** will handle regular updates automatically.
